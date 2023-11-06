@@ -7,4 +7,4 @@
 
 <h2>Ekran Goruntusu</h2>
 
-![](ekran.gif)
+![](src/ekran.gif)
